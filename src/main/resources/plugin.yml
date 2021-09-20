@@ -1,0 +1,6 @@
+name: MyFirstPlugin
+version: '${project.version}'
+main: me.aayush.myfirstplugin.MyFirstPlugin
+api-version: 1.17
+authors:
+  - aayush
