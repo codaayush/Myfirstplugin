@@ -19,7 +19,7 @@ public final class MyFirstPlugin extends JavaPlugin implements Listener {
     @EventHandler
     public void onPlayerJoin(PlayerJoinEvent event){
 
-        System.out.println("the player has join kindly see him him");
+        System.out.println("the player has joined say him hi");
 
     }
 
